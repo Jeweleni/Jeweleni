@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeweleni
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning html, css and javascript
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on responsive web pages
 - 📫 How to reach me - jeweleni@gmail.com
 
