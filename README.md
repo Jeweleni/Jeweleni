@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jeweleni
-- 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on responsive web pages
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning react, vue and many more
+- 💞️ I’m looking to collaborate on responsive web pages and apps
 - 📫 How to reach me - jeweleni@gmail.com
 
 <!---
