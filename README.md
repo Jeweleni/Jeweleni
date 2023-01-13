@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeweleni
+- 👋 Hi, I’m @Jeweleni. Pronouns are She/Her
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning react, vue and many more
 - 💞️ I’m looking to collaborate on responsive web pages and apps
