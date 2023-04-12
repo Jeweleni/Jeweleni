@@ -1,11 +1,12 @@
 # 💫 About Me:
 I am a front-end developer proficient in several technologies such as React, Vue, Tailwind CSS, and TypeScript, and I am particularly interested in solving environmental issues using technology, as I believe that software engineering can play a crucial role in mitigating climate change and promoting sustainable practices.<br>I also intend to collaborate with like-minded individuals and organizations that share my passion for using technology to solve environmental problems. Ultimately, my goal as a software engineer is to contribute to a more sustainable future and positively impact the world.<br>
-😊 Pronouns: She/her
-💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2022.
-🌱 I’m currently learning Next.JS.
-😊 I’m open to open source projects, internships, and entry-level opportunities.
-💼 Job interests: Software Engineer, Frontend Engineer.
-📫 You can contact via email jeweleni@gmail.com.
+
+<br>😊 Pronouns: She/her<br>
+<br>💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2022.<br>
+<br>🌱 I’m currently learning Next.JS.<br>
+<br>😊 I’m open to open source projects, internships, and entry-level opportunities.<br>
+<br>💼 Job interests: Software Engineer, Frontend Engineer.<br>
+<br>📫 You can contact via email jeweleni@gmail.com.<br>
 
 
 ## 🌐 Socials:
