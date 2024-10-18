@@ -6,7 +6,7 @@ Check out https://jeweleni.vercel.app for more
 <br>😊 Pronouns: She/her<br>
 <br>💡 Fun fact: I love to write<br>
 <br>🌱 I’m currently learning DevOps Practices and cloud Technologies<br>
-<br>💼 Job interests: Software Engineer, Frontend Developer, DevOps Engineer.<be>
+<br>💼 Job interests: Software Engineer, Frontend Developer, DevOps Engineer.<br>
 <br>💬 Ask me about Sustainability, Renewable energy and Technologies<br>
 <br>📫 You can contact via email jeweleni@gmail.com or on LinkedIn at https://www.linkedin.com/in/momoreoluwajeweleni/ <br>
 
