@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a software developer proficient in several technologies, from JavaScript and its framework to Python. I'm particularly interested in solving environmental issues using technology, as software engineering will play a crucial role in mitigating climate change and promoting sustainable practices. <br>I also intend to collaborate with like-minded individuals and organizations who share my passion for using technology to solve environmental problems. Ultimately, my goal as a software engineer is to contribute to a more sustainable future and positively impact the world. <br>
 
-Check out https://jeweleni.vercel.app for more
+Check out https://jeweleni.me for more
 
 <br>😊 Pronouns: She/her<br>
 <br>💡 Fun fact: I love to write<br>
